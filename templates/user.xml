@@ -1,0 +1,57 @@
+<templateSet group="user">
+  <template name="col" value="            return new Collector&lt;$Entity$&gt;(new[]&#10;                                                 {&#10;                                                     context.GetGroup($Matcher$.$Component1$),&#10;                                                     context.GetGroup($Matcher$.$Component2$)&#10;                                                 }, new[]&#10;                                                    {&#10;                                                        GroupEvent.Added,&#10;                                                        GroupEvent.Added,&#10;                                                    });" description="Collector" toReformat="true" toShortenFQNames="true">
+    <variable name="Entity" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Matcher" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Component1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Component2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="ent" value="var entity = context.CreateEntity();&#10;$END$&#10;return entity;" description="Simple entity creator" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="feature" value="private sealed class $ClassName$ : Feature&#10;{&#10;    internal $ClassName$(Contexts c)&#10;    : base($StringName$)&#10;    {&#10;        $END$&#10;    }&#10;}" description="Internal feature class for controllers" toReformat="true" toShortenFQNames="true">
+    <variable name="ClassName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="StringName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="#region" value="#region ----------------------------------------------------------------------------------------- $Name$&#10;&#10;    $END$&#10;&#10;#endregion" description="Region with divider" toReformat="true" toShortenFQNames="true">
+    <variable name="Name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>

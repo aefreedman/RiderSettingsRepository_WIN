@@ -1,0 +1,18 @@
+<templateSet group="Entitas">
+  <template name="comp" value="[$CONTEXT$]&#10;public class $VAR$Component : IComponent&#10;{&#10;    public $var2$ $var3$;$END$&#10;}" description="component" toReformat="true" toShortenFQNames="true">
+    <variable name="CONTEXT" expression="" defaultValue="context" alwaysStopAt="true" />
+    <variable name="VAR" expression="capitalize(String)" defaultValue="Name" alwaysStopAt="true" />
+    <variable name="var2" expression="complete()" defaultValue="type" alwaysStopAt="true" />
+    <variable name="var3" expression="capitalize(String)" defaultValue="Name" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>
