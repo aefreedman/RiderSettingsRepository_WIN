@@ -126,7 +126,7 @@
           <IdeaActionID>EditPropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Properties...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refactor This...">
