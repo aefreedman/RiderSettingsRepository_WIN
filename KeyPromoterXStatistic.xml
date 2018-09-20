@@ -134,7 +134,7 @@
           <IdeaActionID>ReSharperGotoNextErrorInSolution</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Next Error</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties...">
