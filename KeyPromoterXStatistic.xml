@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -62,7 +62,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Attach to Unity Editor'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -110,6 +110,14 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>ReSharperGotoImplementation</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
+          <Description>Implementation(s)</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -198,7 +206,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>24</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -254,7 +262,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>17</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Attach to Unity Editor &amp; Play'">
@@ -270,7 +278,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Attach to Unity Editor'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Unity.exe'">
