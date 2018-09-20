@@ -1,4 +1,7 @@
 <keymap version="1" name="Aaron Keybinds WIN" parent="Rider">
+  <action id="ActivateUnityToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt w" />
@@ -6,5 +9,11 @@
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="RefreshInUnityAction">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="TriggerPlayInUnity">
+    <keyboard-shortcut first-keystroke="alt p" />
   </action>
 </keymap>
