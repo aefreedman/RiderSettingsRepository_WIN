@@ -145,6 +145,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Play/Edit">
+        <Item>
+          <IdeaActionID>TriggerPlayInUnity</IdeaActionID>
+          <ShortCut>'Alt+P'</ShortCut>
+          <Description>Play/Edit</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Properties...">
         <Item>
           <IdeaActionID>EditPropertiesAction</IdeaActionID>
