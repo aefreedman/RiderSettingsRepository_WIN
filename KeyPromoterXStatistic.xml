@@ -118,7 +118,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -175,6 +175,14 @@
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Properties...</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Documentation">
+        <Item>
+          <IdeaActionID>QuickJavaDoc</IdeaActionID>
+          <ShortCut>'Ctrl+Q' or 'Alt+Button2 Click'</ShortCut>
+          <Description>Quick Documentation</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refactor This...">
