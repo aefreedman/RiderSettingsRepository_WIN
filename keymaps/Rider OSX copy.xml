@@ -1,0 +1,11 @@
+<keymap version="1" name="Rider OSX copy" parent="Rider OSX">
+  <action id="ActivateUnityToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="PlayInUnityAction">
+    <keyboard-shortcut first-keystroke="ctrl meta u" second-keystroke="p" />
+  </action>
+  <action id="TriggerRefreshInUnity">
+    <keyboard-shortcut first-keystroke="ctrl meta u" second-keystroke="b" />
+  </action>
+</keymap>
