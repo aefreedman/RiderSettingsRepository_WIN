@@ -166,7 +166,7 @@
           <IdeaActionID>TriggerPlayInUnity</IdeaActionID>
           <ShortCut>'Alt+P'</ShortCut>
           <Description>Play/Edit</Description>
-          <Count>36</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties...">
