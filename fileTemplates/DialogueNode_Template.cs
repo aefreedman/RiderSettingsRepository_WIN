@@ -3,14 +3,17 @@
 using LostMemories.DialogueStateMachine;
 using SecretCrush.PrototypingKit;
 using UnityEngine;
+using Zenject;
 
 namespace LostMemories.DialogueTree.DialogueNodes
 {
     // name of the class after DialogueNode_ must match the filename
-    public class DialogueNode_$name : IDialogueNode
+    public class DialogueNode_$Filename : IDialogueNode
     {
-        private const string ChoiceA = "FILENAME_HERE";
-        private const string ChoiceB = "FILENAME_HERE";
+        private const string ChoiceA = "$ChoiceA";
+
+        private const string ChoiceB = "$ChoiceB";
+        // additional choices can go here
 
         private string _debugLabel;
 
@@ -27,10 +30,9 @@ namespace LostMemories.DialogueTree.DialogueNodes
 
             /* Example
             var history = historyContext.GetGroup(HistoryMatcher.ChatNode).GetEntities();
-            var hasSeenAmy_1_1 = historyContext.GetEntitiesWithChatNode(ChoiceA).Count > 0;
             */
 
-            // return new NodeChoice { Choices = null }; // terminal node
+            // return new NodeChoice { Choices = null } // terminal node
 
             var choice = new NodeChoice
                          {
