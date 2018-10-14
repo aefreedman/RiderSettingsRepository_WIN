@@ -62,7 +62,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Attach to Unity Editor'</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -174,7 +174,7 @@
           <IdeaActionID>TriggerPlayInUnity</IdeaActionID>
           <ShortCut>'Alt+P'</ShortCut>
           <Description>Play/Edit</Description>
-          <Count>75</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties...">
@@ -318,7 +318,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Attach to Unity Editor'</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Unity.exe'">
@@ -350,7 +350,7 @@
           <IdeaActionID>ActivateUnityToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Unity</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
