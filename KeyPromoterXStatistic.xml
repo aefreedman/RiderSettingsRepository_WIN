@@ -22,7 +22,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+F4' or 'Alt+W'</ShortCut>
           <Description>Close</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -190,7 +190,7 @@
           <IdeaActionID>QuickJavaDoc</IdeaActionID>
           <ShortCut>'Ctrl+Q' or 'Alt+Button2 Click'</ShortCut>
           <Description>Quick Documentation</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refactor This...">
