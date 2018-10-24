@@ -246,7 +246,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>127</Count>
+          <Count>132</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -326,7 +326,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Attach to Unity Editor'</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Unity.exe'">
