@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Game" />
-    <option name="defaultScopeName" value="Game" />
+    <option name="customScope" value="File '...\Assets\Verification\Tests\SceneTests.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\Verification\Tests\SceneTests.cs'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Game" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\Verification\Tests\SceneTests.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
