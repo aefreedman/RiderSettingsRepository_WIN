@@ -13,5 +13,7 @@
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="ide.mac.file.chooser.native" value="false" />
+    <entry key="actionSystem.fix.alt.gr" value="false" />
+    <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
   </component>
 </application>
