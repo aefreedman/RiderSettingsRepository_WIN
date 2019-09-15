@@ -1,7 +1,13 @@
 <application>
   <component name="CodeLensSettings">
+    <anchor>
+      <map>
+        <entry key="Unity serialized field" value="Right" />
+      </map>
+    </anchor>
     <enabled>
       <map />
     </enabled>
+    <showUnavailable>false</showUnavailable>
   </component>
 </application>
