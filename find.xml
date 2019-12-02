@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="RT+FB" />
+    <option name="defaultScopeName" value="RT+FB" />
+    <option name="SEARCH_SCOPE" value="RT+FB" />
     <option name="FILE_MASK" value="*.cs" />
   </component>
 </application>
