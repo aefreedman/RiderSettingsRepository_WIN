@@ -8,9 +8,6 @@
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
   </action>
-  <action id="TriggerRefreshInUnity">
-    <keyboard-shortcut first-keystroke="shift ctrl s" />
-  </action>
   <action id="org.j92.date.generator.action.Gen">
     <keyboard-shortcut first-keystroke="ctrl alt g" second-keystroke="d" />
   </action>
