@@ -9,7 +9,11 @@
     <entry key="parameter.info.max.visible.rows" value="10" />
     <entry key="performance.watcher.sampling.interval.ms" value="200" />
     <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
-    <entry key="rider.enable.designer.winForms" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="actionSystem.fix.alt.gr" value="false" />
+    <entry key="ide.win.frame.decoration" value="true" />
+    <entry key="show.log.as.editor.tab" value="false" />
+    <entry key="show.diff.preview.as.editor.tab" value="true" />
+    <entry key="vcs.non.modal.commit.toggle.ui" value="false" />
   </component>
 </application>
