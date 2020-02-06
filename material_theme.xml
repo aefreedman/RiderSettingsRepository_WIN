@@ -1,0 +1,16 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactSidebar" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="tabsHeight" value="25" />
+    <option name="accentColor" value="0f2040" />
+    <option name="userId" value="-3fecc7ac:1701b6fe3cc:-8000" />
+    <option name="version" value="4.11.5" />
+  </component>
+</application>
