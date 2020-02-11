@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="#region" value="#region ----------------------------------------------------------------------------------------- $Name$&#10;&#10;    $END$&#10;&#10;#endregion" description="Region with divider" toReformat="true" toShortenFQNames="true">
+  <template name="#region" value="#region ----------------------------------------------------------------------------------------- $Name$&#10;&#10;    $END$&#10;&#10;#endregion" description="Region with divider" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="Name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="false" />

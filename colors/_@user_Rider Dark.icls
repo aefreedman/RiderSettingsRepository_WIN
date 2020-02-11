@@ -4,7 +4,7 @@
     <property name="created">2019-08-14T10:08:45</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-08-14T10:27:45</property>
+    <property name="modified">2020-02-06T11:50:41</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -16,4 +16,12 @@
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
+  <attributes>
+    <option name="ReSharper.COGNITIVE_COMPLEXITY_HINT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="d0cd76" />
+      </value>
+    </option>
+  </attributes>
 </scheme>

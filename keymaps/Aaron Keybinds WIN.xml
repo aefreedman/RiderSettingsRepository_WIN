@@ -4,6 +4,10 @@
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="DatabaseView.SqlGenerator" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="m" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
