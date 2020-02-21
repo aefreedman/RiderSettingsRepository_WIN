@@ -2,4 +2,7 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <stylecop>
+    <option name="ENABLED" value="true" />
+  </stylecop>
 </code_scheme>
