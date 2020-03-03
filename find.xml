@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="RT+FB" />
-    <option name="defaultScopeName" value="RT+FB" />
+    <option name="customScope" value="File '...\Assets\Libraries\Fullbright\HSBColor.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\Libraries\Fullbright\HSBColor.cs'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="RT+FB" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\Libraries\Fullbright\HSBColor.cs'" />
     <option name="FILE_MASK" value="*.cs" />
   </component>
 </application>
