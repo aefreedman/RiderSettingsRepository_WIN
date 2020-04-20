@@ -7,15 +7,7 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
-          <option name="allowTypingDuringDebug" value="true" />
-          <option name="remappedSourceLocationsMap">
-            <map />
-          </option>
-        </configuration>
-      </debugger>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
+          <option name="showDebuggerEventsInOutput" value="false" />
         </configuration>
       </debugger>
     </debuggers>
