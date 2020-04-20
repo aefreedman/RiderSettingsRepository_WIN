@@ -1,0 +1,184 @@
+<application>
+  <component name="Layout">
+    <option name="layouts">
+      <array>
+        <Layout>
+          <option name="editorPlacement" value="1" />
+          <option name="name" value="Two Column" />
+          <option name="toolWindows">
+            <array>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Key Promoter X" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="TODO" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Errors In Solution" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Internal Method Tracing" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Event Log" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Unit Tests" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Version Control" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Problems View" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Unit Tests Coverage" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Terminal" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="NuGet" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Project" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Services" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Commit" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="IL Viewer" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Unity" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="TeamCity" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Structure" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Performance Profiler" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Dynamic Program Analysis" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Favorites" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+            </array>
+          </option>
+        </Layout>
+      </array>
+    </option>
+  </component>
+</application>
