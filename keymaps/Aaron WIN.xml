@@ -1,0 +1,5 @@
+<keymap version="1" name="Aaron WIN" parent="Rider">
+  <action id="EditorBackwardParagraph">
+    <keyboard-shortcut first-keystroke="j" />
+  </action>
+</keymap>
