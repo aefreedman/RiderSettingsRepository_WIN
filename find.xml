@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\!RoadTrip\Scripts\3C\CinemachineExtension\CustomCollision.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\!RoadTrip\Scripts\3C\CinemachineExtension\CustomCollision.cs'" />
+    <option name="customScope" value="File '...\Assets\Libraries\Fullbright\Cinemachine\CameraCorrectionBlender.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\Libraries\Fullbright\Cinemachine\CameraCorrectionBlender.cs'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\!RoadTrip\Scripts\3C\CinemachineExtension\CustomCollision.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\Libraries\Fullbright\Cinemachine\CameraCorrectionBlender.cs'" />
     <option name="FILE_MASK" value="*.cs" />
   </component>
 </application>
