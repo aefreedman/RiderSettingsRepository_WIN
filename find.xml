@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Selected Files And Folders" />
-    <option name="defaultScopeName" value="Selected Files And Folders" />
-    <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
+    <option name="customScope" value="Selected directory" />
+    <option name="defaultScopeName" value="Selected directory" />
+    <option name="SEARCH_SCOPE" value="Selected directory" />
     <option name="FILE_MASK" value="*.cs" />
   </component>
 </application>
