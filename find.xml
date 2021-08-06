@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\!RoadTrip\Scripts\3C\PlayerSystem\PlayerDataRestorer.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\!RoadTrip\Scripts\3C\PlayerSystem\PlayerDataRestorer.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\!RoadTrip\Scripts\3C\PlayerSystem\PlayerDataRestorer.cs'" />
+    <option name="customScope" value="File '...\Assets\Libraries\Fullbright\Cinemachine\Editor\CinemachineVCamSanitizer.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\Libraries\Fullbright\Cinemachine\Editor\CinemachineVCamSanitizer.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\Libraries\Fullbright\Cinemachine\Editor\CinemachineVCamSanitizer.cs'" />
     <option name="FILE_MASK" value="*.cs" />
   </component>
 </application>
