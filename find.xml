@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\Libraries\Fullbright\Editor\ScreenshotTaker.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\Libraries\Fullbright\Editor\ScreenshotTaker.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\Libraries\Fullbright\Editor\ScreenshotTaker.cs'" />
+    <option name="customScope" value="File '...\Assets\Libraries\Fullbright\Profiling\RenderProfilerRecorder.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\Libraries\Fullbright\Profiling\RenderProfilerRecorder.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\Libraries\Fullbright\Profiling\RenderProfilerRecorder.cs'" />
     <option name="FILE_MASK" value="*.cs" />
   </component>
 </application>
