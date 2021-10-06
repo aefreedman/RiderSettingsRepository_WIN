@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\!RoadTrip\Scripts\Audio\Editor\FMODStudioFootstepsEditor.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\!RoadTrip\Scripts\Audio\Editor\FMODStudioFootstepsEditor.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\!RoadTrip\Scripts\Audio\Editor\FMODStudioFootstepsEditor.cs'" />
+    <option name="customScope" value="File '...\Assets\Libraries\Fullbright\TerrainUtils\Editor\TerrainUtilsWindow.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\Libraries\Fullbright\TerrainUtils\Editor\TerrainUtilsWindow.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\Libraries\Fullbright\TerrainUtils\Editor\TerrainUtilsWindow.cs'" />
     <option name="FILE_MASK" value="*.cs" />
   </component>
 </application>
