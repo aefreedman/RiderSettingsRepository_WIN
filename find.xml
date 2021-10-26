@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\Libraries\Fullbright\SceneLoading\SceneRef.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\Libraries\Fullbright\SceneLoading\SceneRef.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\Libraries\Fullbright\SceneLoading\SceneRef.cs'" />
+    <option name="customScope" value="File '...\Assets\!RoadTrip\Scripts\GameplayIngredients\Examinable\ExaminableViewSequence.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\!RoadTrip\Scripts\GameplayIngredients\Examinable\ExaminableViewSequence.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\!RoadTrip\Scripts\GameplayIngredients\Examinable\ExaminableViewSequence.cs'" />
     <option name="FILE_MASK" value="*.cs" />
   </component>
 </application>
