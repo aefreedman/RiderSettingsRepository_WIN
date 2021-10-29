@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\!RoadTrip\Scripts\UI\PlayerInterface\Journal\NotesNotification.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\!RoadTrip\Scripts\UI\PlayerInterface\Journal\NotesNotification.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\!RoadTrip\Scripts\UI\PlayerInterface\Journal\NotesNotification.cs'" />
+    <option name="customScope" value="File '...\Assets\!RoadTrip\Scripts\Lead System\LeadRepository.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\!RoadTrip\Scripts\Lead System\LeadRepository.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\!RoadTrip\Scripts\Lead System\LeadRepository.cs'" />
   </component>
 </application>
