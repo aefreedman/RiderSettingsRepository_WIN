@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\Libraries\Fullbright\I2Localization\I2LocalizationGlobalSources.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\Libraries\Fullbright\I2Localization\I2LocalizationGlobalSources.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\Libraries\Fullbright\I2Localization\I2LocalizationGlobalSources.cs'" />
+    <option name="customScope" value="File '...\Assets\!RoadTrip\Scripts\UI\StartMenuLogic.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\!RoadTrip\Scripts\UI\StartMenuLogic.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\!RoadTrip\Scripts\UI\StartMenuLogic.cs'" />
   </component>
 </application>
