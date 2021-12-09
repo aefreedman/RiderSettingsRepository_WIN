@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Assets\Libraries\Fullbright\ScreenMaterial.cs'" />
-    <option name="defaultScopeName" value="File '...\Assets\Libraries\Fullbright\ScreenMaterial.cs'" />
+    <option name="customScope" value="File '...\Assets\DebugPadControl.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\DebugPadControl.cs'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\Assets\Libraries\Fullbright\ScreenMaterial.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\DebugPadControl.cs'" />
   </component>
 </application>
