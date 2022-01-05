@@ -2,8 +2,6 @@
   <component name="MaterialThemeConfig">
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="premium" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
@@ -13,9 +11,9 @@
     <option name="pristineConfig" value="false" />
     <option name="settingsSelectedTab" value="4" />
     <option name="tabsHeight" value="25" />
-    <option name="accentColor" value="ffd866" />
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="accentColor" value="416a9b" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-3fecc7ac:1701b6fe3cc:-8000" />
-    <option name="version" value="6.7.2" />
+    <option name="version" value="6.12.2" />
   </component>
 </application>
