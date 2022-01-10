@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\!RoadTrip\Scripts\DialogueSystem\DialogueSystemEditorPreferences.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\!RoadTrip\Scripts\DialogueSystem\DialogueSystemEditorPreferences.cs'" />
+    <option name="customScope" value="File '…\Assets\!RoadTrip\Scripts\3C\PlayerSystem\PlayerMenuManager.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\!RoadTrip\Scripts\3C\PlayerSystem\PlayerMenuManager.cs'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\!RoadTrip\Scripts\DialogueSystem\DialogueSystemEditorPreferences.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\!RoadTrip\Scripts\3C\PlayerSystem\PlayerMenuManager.cs'" />
   </component>
 </application>
