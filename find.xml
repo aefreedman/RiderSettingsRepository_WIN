@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Assets\!RoadTrip\Scripts\UI\NextPrevValueBrowser.cs'" />
-    <option name="defaultScopeName" value="File '…\Assets\!RoadTrip\Scripts\UI\NextPrevValueBrowser.cs'" />
+    <option name="customScope" value="File '…\Assets\Libraries\Fullbright\TerrainUtils\TerrainUtils.cs'" />
+    <option name="defaultScopeName" value="File '…\Assets\Libraries\Fullbright\TerrainUtils\TerrainUtils.cs'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\Assets\!RoadTrip\Scripts\UI\NextPrevValueBrowser.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Assets\Libraries\Fullbright\TerrainUtils\TerrainUtils.cs'" />
   </component>
 </application>
